@@ -1,25 +1,16 @@
 # OmniEmployee AI
 
-Build the world's most useful AI Employee platform.
+> Build the world's most useful AI Employee platform.
 
-## Vision
+## 🎯 Mission
 
-An AI platform where businesses can hire specialized AI employees.
+Help businesses automate work using specialized AI Employees.
 
-## First AI Employee
+## 🚀 Current Goal
 
-Research Employee
+Build our first AI Employee:
+- Research Employee
 
-## Roadmap
+## 📍 Status
 
-- Research Agent
-- Sales Agent
-- Support Agent
-- HR Agent
-- Finance Agent
-
-## Mission
-
-Save businesses thousands of hours using AI.
-
-Built with ❤️ by P.S.
+🟢 Planning Phase
